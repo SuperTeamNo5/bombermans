@@ -1,0 +1,10 @@
+﻿Shika	45000
+CaoEm	350
+Hải Em	20
+Quỳnh	10
+Tuyền	5
+Shika	0
+Cao Em	0
+Hải Em	0
+Quỳnh	0
+Tuyền	0
